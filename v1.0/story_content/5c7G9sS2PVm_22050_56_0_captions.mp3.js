@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,000%20--%3E%2000:00:01,000%0D%0AIn%20composition,%0D%0A%0D%0A2%0D%0A00:00:01,070%20--%3E%2000:00:05,040%0D%0AThe%20borrower%20class%20are%20made%20up%20of%20the%20book%20class."}')
